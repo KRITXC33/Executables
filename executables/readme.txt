@@ -1,0 +1,1 @@
+These executables are very powerful.  destroy.exe is to destroy unwanted files or malware.  lockkeys.exe is to lock key strokes and mouse clicks.  Use at your own risk.  I am not responsible for and damage to your device.
